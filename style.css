@@ -1,0 +1,120 @@
+body{
+    font-family: "Montserrat", sans-serif;
+    font-weight: 350;
+    font-style: normal;
+    font-size: 15px;
+    background-color: #F0EFEB;
+    color: #50504E;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+header{
+    border-radius: 7px 7px 0px 0px;
+    background-color: #EDDCD2;
+    line-height: 1.7;
+    padding: 20px;
+    margin: 0 auto ;
+    max-width: 900px;
+    border-bottom: 5px solid #A5A58D;
+    color: #50504E;
+}
+
+section{
+
+    line-height: 1.7;
+    padding: 20px;
+    margin: 0px auto;
+    max-width: 900px;
+}
+
+.document{
+    box-shadow: 20px 10px 10px #B7B7A4;
+    padding: 0px 0px 0px 0px;
+    border: 5px solid #A5A58D;
+    border-radius: 7px;
+}
+
+
+h1{
+    font-family: "Montserrat", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 30px;
+    text-shadow: 5px 5px 5px #DDBEA9;
+}
+
+h2{
+    margin: 0;
+    margin-bottom: 10px;
+    line-height: 1.7;
+    font-weight: 600;
+}
+
+.work h2,
+.skills h2{
+    text-shadow: 5px 5px 5px #AF9888;
+}
+
+.education h2{
+    text-shadow: 5px 5px 5px #DDBEA9;
+}
+
+h3{
+    margin: 0;
+    line-height: 1.4;
+    font-weight: 600;
+}
+
+
+
+.work,
+.skills{
+    background-color: #DDBEA9;
+}
+
+.education{
+    background-color: #EDDCD2;
+}
+
+.work p,
+.education p,
+.skills p{
+    margin-top: 5px;
+}
+
+strong{
+    font-weight: 500;
+}
+
+
+ul{
+    margin-top: 5px;
+}
+
+
+img{
+    width: 200px;
+    border-radius: 50%;
+    float: left;
+    margin: 10px 60px 10px 30px;
+    box-shadow: 10px 10px 10px #DDBEA9;
+}
+
+a{
+    color: #50504E;
+}
+
+a:hover{
+    color: black;
+}
+
+footer{
+    padding: 30px ;
+    text-align: center;
+    background-color: #A5A58D;
+}
+
+footer a{
+    color: #FFF1E6;
+}
